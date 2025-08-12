@@ -1,0 +1,12 @@
+/* src/index.css */
+@import "tailwindcss";
+
+/* small custom helpers (optional) */
+:root { --brand: #37822f; }
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: #0f172a; /* dark bg while building (change later) */
+  color: #6e9dd7;
+}
